@@ -1,8 +1,4 @@
 ---
-title: "Setting Up Proxmox for a Home Lab – Step-by-Step Install Guide"
-date: 2026-02-07
-draft: false
----
 title: "Setting Up a Two-Node Proxmox Cluster: toothless + superman in My Home Lab"
 date: 2026-02-08
 draft: false
