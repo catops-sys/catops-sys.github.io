@@ -6,3 +6,15 @@ description: "A practical guide to installing Proxmox VE on home lab hardware, f
 tags: ["proxmox", "home-lab", "virtualization", "self-hosting"]
 categories: ["homelab"]
 ---
+Something 
+Something 
+Something 
+Something 
+Something 
+Something 
+Something 
+Something 
+
+```bash
+some ome od asdadslkasd
+```
