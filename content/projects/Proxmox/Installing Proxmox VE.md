@@ -40,11 +40,15 @@ Both on Proxmox VE (latest as of 2026), same version, static IPs on the same LAN
 Before clustering:
 - Install Proxmox VE on each (same ISO version!).
 - Update fully on both:
-  ```bash
+- Optional use (proxmox helper scripts)[https://community-scripts.github.io/ProxmoxVE/] This a collection of communtiy scripts.
+
+```bash
   apt update && apt full-upgrade -y
   reboot
+```
 
 - Disable enterprise repo (no sub needed for home):
+
 ```bash
 sed -i 's/^deb/#deb/' /etc/apt/sources.list.d/pve-enterprise.list
 echo "deb http://download.proxmox.com/debian/pve bookworm pve-no-subscription" > /etc/apt/sources.list.d/pve-no-subscription.list
