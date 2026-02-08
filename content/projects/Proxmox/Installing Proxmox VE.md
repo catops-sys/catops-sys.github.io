@@ -43,3 +43,10 @@ Before clustering:
   ```bash
   apt update && apt full-upgrade -y
   reboot
+
+- Disable enterprise repo (no sub needed for home):
+```bash
+sed -i 's/^deb/#deb/' /etc/apt/sources.list.d/pve-enterprise.list
+echo "deb http://download.proxmox.com/debian/pve bookworm pve-no-subscription" > /etc/apt/sources.list.d/pve-no-subscription.list
+apt update
+```
