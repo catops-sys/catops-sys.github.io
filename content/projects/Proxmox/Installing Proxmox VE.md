@@ -40,7 +40,7 @@ Both on Proxmox VE (latest as of 2026), same version, static IPs on the same LAN
 Before clustering:
 - Install Proxmox VE on each (same ISO version!).
 - Update fully on both:
-- Optional use (proxmox helper scripts)[https://community-scripts.github.io/ProxmoxVE/] This a collection of communtiy scripts.
+- Optional use (proxmox helper scripts)(https://community-scripts.github.io/ProxmoxVE/) This a collection of communtiy scripts.
 
 ```bash
   apt update && apt full-upgrade -y
