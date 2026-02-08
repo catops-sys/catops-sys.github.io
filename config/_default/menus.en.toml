@@ -16,7 +16,7 @@
  weight = 10
 
 [[main]]
- name = "content
+ name = "Parent"
  weight = 20
 
 #[[main]]
