@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proxmox on Blowfish</title>
+    <link>http://localhost:1313/tags/proxmox/</link>
+    <description>Recent content in Proxmox on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>catops@c47m4n.com (Catman)</managingEditor>
+    <webMaster>catops@c47m4n.com (Catman)</webMaster>
+    <copyright>© 2026 Catman</copyright>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Setting Up a Two-Node Proxmox Cluster: toothless &#43; superman in My Home Lab</title>
+      <link>http://localhost:1313/projects/proxmox/installing-proxmox-ve/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <author>catops@c47m4n.com (Catman)</author>
+      <guid>http://localhost:1313/projects/proxmox/installing-proxmox-ve/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

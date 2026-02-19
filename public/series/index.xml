@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Blowfish</title><link>https://catops-sys.github.io/series/</link><description>Recent content in Series on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>catops@c47m4n.com (Catman)</managingEditor><webMaster>catops@c47m4n.com (Catman)</webMaster><copyright>© 2026 Catman</copyright><atom:link href="https://catops-sys.github.io/series/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Blowfish</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>catops@c47m4n.com (Catman)</managingEditor>
+    <webMaster>catops@c47m4n.com (Catman)</webMaster>
+    <copyright>© 2026 Catman</copyright>
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
